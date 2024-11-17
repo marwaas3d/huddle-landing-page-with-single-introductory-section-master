@@ -148,7 +148,7 @@
 
 @media (max-width: 375px) {
     body {
-        height: 100vh;
+        height: 110vh;
         background-color: var(--Violet);
     }
     
@@ -258,17 +258,17 @@
 
 .instagram{
     position: absolute;
-    bottom: 2%;
+    bottom: -7%;
     right: 128px;
 }
 .twitter{
     position: absolute;
-    bottom: 2%;
+    bottom: -7%;
     right: 166px;
 }
 .facebook{
     position: absolute;
-    bottom: 2%;
+    bottom: -7%;
     right: 204px;
 }
 
