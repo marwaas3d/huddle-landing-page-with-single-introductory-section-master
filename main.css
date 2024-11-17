@@ -253,22 +253,18 @@
     cursor: pointer;    
     display: flex;
     justify-content: center;
-    align-items: center;    
+    align-items: center; 
+    position: absolute;
+    bottom: -53px;   
 }
 
 .instagram{
-    position: absolute;
-    bottom: -7%;
     right: 128px;
 }
 .twitter{
-    position: absolute;
-    bottom: -7%;
     right: 166px;
 }
 .facebook{
-    position: absolute;
-    bottom: -7%;
     right: 204px;
 }
 
