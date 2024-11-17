@@ -178,7 +178,7 @@
     .content{
         grid-row: 2 / 3;
         display: grid;
-        grid-template-rows: 40% 50% 10%;
+        grid-template-rows: 40% 50% 12%;
         color: white;
         height: 100vh;
     }
@@ -196,7 +196,6 @@
 /***************************************/
 .heading{
     grid-row: 2/3;
-    position: relative;
 }
 .heading h2{
     font-family: "Poppins", sans-serif;
@@ -245,6 +244,7 @@
 /****************************************/
 .social{
     grid-row: 3/4;
+    position: relative;
 }
 .facebook, .twitter, .instagram{
     width: 30px;
@@ -256,7 +256,7 @@
     justify-content: center;
     align-items: center; 
     position: absolute;
-    bottom: -63px;   
+    bottom: 35px;
 }
 
 .instagram{
